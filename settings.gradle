@@ -1,0 +1,11 @@
+rootProject.name = 'lawmate-personal'
+
+include 'admin-service'
+include 'manage-service'
+include 'chat-service'
+include 'lawyer-service'
+include 'user-service'
+include 'service-discovery'
+include 'api-gateway'
+include 'config-server'
+include 'secret-service'
